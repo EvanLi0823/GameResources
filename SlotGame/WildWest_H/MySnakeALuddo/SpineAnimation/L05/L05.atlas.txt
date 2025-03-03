@@ -1,0 +1,27 @@
+
+L05.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 126, 118
+  orig: 126, 118
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 343, 199
+  size: 292, 242
+  orig: 292, 242
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 2, 122
+  size: 339, 319
+  orig: 339, 319
+  offset: 0, 0
+  index: -1
