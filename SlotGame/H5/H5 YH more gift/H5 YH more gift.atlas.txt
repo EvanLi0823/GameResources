@@ -1,0 +1,20 @@
+
+H5 YH more gift.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+more-gift
+  rotate: false
+  xy: 154, 15
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
