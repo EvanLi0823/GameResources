@@ -20,8 +20,8 @@ S
   index: -1
 more-gift
   rotate: false
-  xy: 154, 57
-  size: 125, 136
-  orig: 125, 136
+  xy: 154, 58
+  size: 125, 135
+  orig: 125, 135
   offset: 0, 0
   index: -1
