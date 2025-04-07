@@ -1,0 +1,27 @@
+
+H5 YH more game.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 44
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 2, 2
+  size: 40, 119
+  orig: 40, 119
+  offset: 0, 0
+  index: -1
+more game
+  rotate: false
+  xy: 154, 80
+  size: 132, 113
+  orig: 132, 113
+  offset: 0, 0
+  index: -1
