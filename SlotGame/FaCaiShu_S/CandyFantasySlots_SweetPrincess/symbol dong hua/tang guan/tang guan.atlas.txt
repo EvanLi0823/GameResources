@@ -1,0 +1,230 @@
+
+tang guan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 825, 424
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 110, 54
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 943, 279
+  size: 79, 116
+  orig: 79, 116
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 849, 424
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 819, 269
+  size: 95, 116
+  orig: 95, 116
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 356, 395
+  size: 102, 115
+  orig: 102, 115
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 52
+  size: 106, 115
+  orig: 106, 115
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 246, 395
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 134, 395
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 169
+  size: 110, 114
+  orig: 110, 114
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 967, 397
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 131, 290
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+21 S
+  rotate: true
+  xy: 168, 190
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+22 S
+  rotate: true
+  xy: 211, 223
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 416, 346
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 114, 18
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 589, 430
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+25 S
+  rotate: false
+  xy: 719, 430
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 134, 333
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 114, 169
+  size: 52, 114
+  orig: 52, 114
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 589, 383
+  size: 45, 116
+  orig: 45, 116
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 707, 379
+  size: 49, 116
+  orig: 49, 116
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 825, 366
+  size: 56, 116
+  orig: 56, 116
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 583, 316
+  size: 65, 116
+  orig: 65, 116
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 701, 305
+  size: 72, 116
+  orig: 72, 116
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 2, 2
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 460, 365
+  size: 121, 58
+  orig: 121, 58
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 460, 425
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 2, 285
+  size: 127, 107
+  orig: 127, 107
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 394
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 340, 320
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+tt2
+  rotate: false
+  xy: 249, 312
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
