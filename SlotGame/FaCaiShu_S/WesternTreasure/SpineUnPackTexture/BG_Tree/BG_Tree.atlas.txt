@@ -1,0 +1,76 @@
+
+BG_Tree.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 170, 139
+  size: 243, 93
+  orig: 243, 93
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 618, 154
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 618, 154
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 415, 142
+  size: 201, 90
+  orig: 201, 90
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 58
+  size: 166, 174
+  orig: 166, 174
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 170, 40
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 295, 40
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 618, 205
+  size: 255, 27
+  orig: 255, 27
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 415, 73
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
