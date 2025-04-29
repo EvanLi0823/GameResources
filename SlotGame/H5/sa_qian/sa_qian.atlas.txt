@@ -1,34 +1,20 @@
 
 sa_qian.png
-size: 256,256
+size: 128,64
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-0
-  rotate: false
-  xy: 2, 2
-  size: 6, 8
-  orig: 6, 8
-  offset: 0, 0
-  index: -1
 m1
   rotate: false
-  xy: 2, 12
+  xy: 2, 2
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 m2
   rotate: false
-  xy: 166, 163
+  xy: 35, 2
   size: 31, 32
   orig: 31, 32
-  offset: 0, 0
-  index: -1
-s
-  rotate: false
-  xy: 2, 46
-  size: 162, 149
-  orig: 162, 149
   offset: 0, 0
   index: -1
