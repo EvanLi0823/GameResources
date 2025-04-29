@@ -1,14 +1,21 @@
 
-more bonus.png
+more cash 2.png
 size: 512,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 1
   rotate: false
-  xy: 156, 53
+  xy: 2, 44
   size: 150, 149
   orig: 150, 149
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 287, 156
+  size: 37, 37
+  orig: 37, 37
   offset: 0, 0
   index: -1
 S
@@ -18,10 +25,10 @@ S
   orig: 40, 119
   offset: 0, 0
   index: -1
-more bunus
+more cash2
   rotate: false
-  xy: 2, 44
-  size: 152, 158
-  orig: 152, 158
+  xy: 154, 61
+  size: 131, 132
+  orig: 131, 132
   offset: 0, 0
   index: -1

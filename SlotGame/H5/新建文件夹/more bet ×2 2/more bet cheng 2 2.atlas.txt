@@ -1,5 +1,5 @@
 
-more bonus.png
+more bet cheng 2 2.png
 size: 512,256
 format: RGBA8888
 filter: Linear,Linear
@@ -11,6 +11,13 @@ repeat: none
   orig: 150, 149
   offset: 0, 0
   index: -1
+2
+  rotate: false
+  xy: 298, 156
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
 S
   rotate: true
   xy: 2, 2
@@ -18,10 +25,10 @@ S
   orig: 40, 119
   offset: 0, 0
   index: -1
-more bet ×2
+more bet ×2 2
   rotate: false
-  xy: 154, 55
-  size: 142, 138
-  orig: 142, 138
+  xy: 154, 56
+  size: 142, 137
+  orig: 142, 137
   offset: 0, 0
   index: -1

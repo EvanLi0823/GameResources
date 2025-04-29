@@ -11,6 +11,13 @@ repeat: none
   orig: 150, 149
   offset: 0, 0
   index: -1
+2
+  rotate: false
+  xy: 288, 156
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
 S
   rotate: true
   xy: 2, 2
