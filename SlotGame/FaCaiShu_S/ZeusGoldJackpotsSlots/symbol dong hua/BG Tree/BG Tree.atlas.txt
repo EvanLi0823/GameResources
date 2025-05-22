@@ -1,0 +1,188 @@
+
+BG Tree.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 556, 715
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 2, 2
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 842, 817
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 579, 715
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 663, 733
+  size: 139, 82
+  orig: 139, 82
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 691, 817
+  size: 149, 82
+  orig: 149, 82
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 383, 467
+  size: 160, 83
+  orig: 160, 83
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 383, 552
+  size: 166, 84
+  orig: 166, 84
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 383, 638
+  size: 171, 86
+  orig: 171, 86
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 91, 3
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 332, 847
+  size: 357, 173
+  orig: 357, 173
+  offset: 0, 0
+  index: -1
+21 S
+  rotate: true
+  xy: 2, 83
+  size: 357, 173
+  orig: 357, 173
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 545, 466
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 906, 733
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 194, 385
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 278, 385
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 177, 301
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 551, 542
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 804, 733
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1
+TT2
+  rotate: false
+  xy: 556, 626
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 383, 726
+  size: 194, 119
+  orig: 194, 119
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 691, 901
+  size: 260, 119
+  orig: 260, 119
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 194, 465
+  size: 333, 187
+  orig: 333, 187
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 2, 800
+  size: 328, 220
+  orig: 328, 220
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 442
+  size: 356, 190
+  orig: 356, 190
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 177, 226
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
