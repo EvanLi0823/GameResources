@@ -1,0 +1,20 @@
+
+more_cash_pao_pao_2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+get
+  rotate: false
+  xy: 286, 87
+  size: 239, 25
+  orig: 239, 25
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 282, 110
+  orig: 282, 110
+  offset: 0, 0
+  index: -1
