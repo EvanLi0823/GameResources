@@ -1,0 +1,27 @@
+
+xb_1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 41
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+xb_1
+  rotate: false
+  xy: 154, 66
+  size: 130, 124
+  orig: 130, 124
+  offset: 0, 0
+  index: -1
