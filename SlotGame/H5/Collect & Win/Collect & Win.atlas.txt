@@ -1,0 +1,34 @@
+
+Collect & Win.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+Collect & Win!
+  rotate: false
+  xy: 286, 94
+  size: 240, 26
+  orig: 240, 26
+  offset: 0, 0
+  index: -1
+get
+  rotate: false
+  xy: 286, 67
+  size: 239, 25
+  orig: 239, 25
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 10
+  size: 282, 110
+  orig: 282, 110
+  offset: 0, 0
+  index: -1
