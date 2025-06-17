@@ -1,0 +1,76 @@
+
+deng_kuang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 811, 738
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+bian
+  rotate: false
+  xy: 417, 748
+  size: 405, 244
+  orig: 405, 244
+  offset: 0, 0
+  index: -1
+bian_S
+  rotate: false
+  xy: 2, 244
+  size: 405, 244
+  orig: 405, 244
+  offset: 0, 0
+  index: -1
+di_kuang
+  rotate: false
+  xy: 2, 742
+  size: 413, 250
+  orig: 413, 250
+  offset: 0, 0
+  index: -1
+di_kuang _S
+  rotate: false
+  xy: 2, 490
+  size: 413, 250
+  orig: 413, 250
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 417, 496
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: true
+  xy: 2, 2
+  size: 240, 370
+  orig: 240, 370
+  offset: 0, 0
+  index: -1
+light_4
+  rotate: true
+  xy: 417, 509
+  size: 237, 392
+  orig: 237, 392
+  offset: 0, 0
+  index: -1
+light_5
+  rotate: false
+  xy: 824, 864
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+linght_2
+  rotate: false
+  xy: 374, 211
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
