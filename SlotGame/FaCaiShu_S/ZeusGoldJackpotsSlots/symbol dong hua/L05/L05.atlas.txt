@@ -1,19 +1,26 @@
 
 L05.png
-size: 1024,512
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-L05
+0
   rotate: false
-  xy: 708, 361
+  xy: 2, 56
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+L05
+  rotate: true
+  xy: 152, 123
   size: 174, 149
   orig: 174, 149
   offset: 0, 0
   index: -1
 L05S
   rotate: true
-  xy: 152, 123
+  xy: 303, 137
   size: 174, 149
   orig: 174, 149
   offset: 0, 0
@@ -27,21 +34,21 @@ LL05
   index: -1
 dian1
   rotate: false
-  xy: 303, 273
+  xy: 393, 397
   size: 96, 113
   orig: 96, 113
   offset: 0, 0
   index: -1
 dian2
-  rotate: false
-  xy: 884, 345
+  rotate: true
+  xy: 307, 8
   size: 127, 165
   orig: 127, 165
   offset: 0, 0
   index: -1
 dian3
-  rotate: true
-  xy: 509, 371
+  rotate: false
+  xy: 252, 313
   size: 139, 197
   orig: 139, 197
   offset: 0, 0
@@ -51,13 +58,6 @@ dian4
   xy: 2, 67
   size: 148, 230
   orig: 148, 230
-  offset: 0, 0
-  index: -1
-light
-  rotate: true
-  xy: 252, 388
-  size: 122, 255
-  orig: 122, 255
   offset: 0, 0
   index: -1
 shan1
