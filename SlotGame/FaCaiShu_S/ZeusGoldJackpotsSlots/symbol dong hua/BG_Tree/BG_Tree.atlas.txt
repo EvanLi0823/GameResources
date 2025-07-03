@@ -12,8 +12,8 @@ repeat: none
   offset: 0, 0
   index: -1
 1
-  rotate: false
-  xy: 994, 70
+  rotate: true
+  xy: 1242, 306
   size: 98, 68
   orig: 98, 68
   offset: 0, 0
@@ -48,7 +48,7 @@ repeat: none
   index: -1
 1_S
   rotate: false
-  xy: 1424, 462
+  xy: 1525, 348
   size: 98, 68
   orig: 98, 68
   offset: 0, 0
@@ -118,14 +118,14 @@ repeat: none
   index: -1
 L_1
   rotate: false
-  xy: 1553, 537
+  xy: 1929, 1734
   size: 53, 56
   orig: 53, 56
   offset: 0, 0
   index: -1
 L_2
   rotate: false
-  xy: 1929, 1734
+  xy: 1553, 537
   size: 53, 56
   orig: 53, 56
   offset: 0, 0
@@ -424,6 +424,62 @@ f3
   orig: 136, 208
   offset: 0, 0
   index: -1
+kk1
+  rotate: false
+  xy: 1312, 304
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+kk2
+  rotate: false
+  xy: 1122, 271
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+kk3
+  rotate: false
+  xy: 1396, 414
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+kk4
+  rotate: true
+  xy: 994, 22
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+kk5
+  rotate: false
+  xy: 1901, 978
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+kk6
+  rotate: false
+  xy: 1894, 861
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+kk7
+  rotate: false
+  xy: 1522, 418
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+kk8
+  rotate: false
+  xy: 1314, 403
+  size: 80, 105
+  orig: 80, 105
+  offset: 0, 0
+  index: -1
 kuang
   rotate: false
   xy: 1407, 1954
@@ -440,7 +496,7 @@ kuang_di
   index: -1
 light_3
   rotate: false
-  xy: 1314, 399
+  xy: 1415, 303
   size: 108, 109
   orig: 108, 109
   offset: 0, 0
