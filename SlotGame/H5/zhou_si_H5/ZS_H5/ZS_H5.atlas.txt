@@ -1,0 +1,76 @@
+
+ZS_H5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 324
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 424, 436
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 2, 2
+  size: 40, 119
+  orig: 40, 119
+  offset: 0, 0
+  index: -1
+ZS_1
+  rotate: false
+  xy: 2, 44
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ZS_3
+  rotate: false
+  xy: 298, 349
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ZS_4
+  rotate: false
+  xy: 298, 223
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ZS_5
+  rotate: false
+  xy: 128, 44
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+more bet ×2
+  rotate: false
+  xy: 154, 335
+  size: 142, 138
+  orig: 142, 138
+  offset: 0, 0
+  index: -1
+more bonus 2
+  rotate: true
+  xy: 2, 170
+  size: 152, 137
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+xb_2
+  rotate: false
+  xy: 254, 97
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1

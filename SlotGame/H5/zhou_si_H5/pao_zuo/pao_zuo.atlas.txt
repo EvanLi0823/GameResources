@@ -1,0 +1,41 @@
+
+pao_zuo.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 96, 69
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+CASH
+  rotate: false
+  xy: 2, 21
+  size: 92, 54
+  orig: 92, 54
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 111, 160
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 2, 77
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
