@@ -1,26 +1,26 @@
 
-L02.png
-size: 256,256
+L06.png
+size: 512,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 2, 2
+  xy: 2, 8
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
-K
-  rotate: false
-  xy: 105, 82
-  size: 136, 151
-  orig: 136, 151
+9
+  rotate: true
+  xy: 229, 2
+  size: 113, 151
+  orig: 113, 151
   offset: 0, 0
   index: -1
 light_S
-  rotate: false
-  xy: 2, 8
+  rotate: true
+  xy: 2, 14
   size: 101, 225
   orig: 101, 225
   offset: 0, 0
