@@ -1,20 +1,27 @@
 
 L02.png
-size: 128,512
+size: 512,128
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-L02
+0
   rotate: false
-  xy: 2, 149
-  size: 124, 145
-  orig: 124, 145
+  xy: 2, 8
+  size: 4, 4
+  orig: 4, 4
   offset: 0, 0
   index: -1
-L02 S
-  rotate: false
-  xy: 2, 2
-  size: 124, 145
-  orig: 124, 145
+9
+  rotate: true
+  xy: 229, 2
+  size: 113, 151
+  orig: 113, 151
+  offset: 0, 0
+  index: -1
+light_S
+  rotate: true
+  xy: 2, 14
+  size: 101, 225
+  orig: 101, 225
   offset: 0, 0
   index: -1
