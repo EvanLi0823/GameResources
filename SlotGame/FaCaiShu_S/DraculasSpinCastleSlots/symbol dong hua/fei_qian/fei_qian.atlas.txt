@@ -1,0 +1,41 @@
+
+fei_qian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 253, 22
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+QQ
+  rotate: false
+  xy: 474, 88
+  size: 185, 163
+  orig: 185, 163
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 661, 123
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+light_di
+  rotate: false
+  xy: 2, 2
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+light_di2
+  rotate: false
+  xy: 253, 30
+  size: 219, 221
+  orig: 219, 221
+  offset: 0, 0
+  index: -1
