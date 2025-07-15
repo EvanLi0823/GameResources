@@ -1,20 +1,41 @@
 
 H03.png
-size: 512,256
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-H03
+0
   rotate: false
-  xy: 2, 2
-  size: 150, 130
-  orig: 150, 130
+  xy: 150, 166
+  size: 4, 4
+  orig: 4, 4
   offset: 0, 0
   index: -1
-H03 S
+H03
   rotate: false
-  xy: 154, 2
-  size: 150, 130
-  orig: 150, 130
+  xy: 2, 21
+  size: 146, 149
+  orig: 146, 149
+  offset: 0, 0
+  index: -1
+H03_S
+  rotate: false
+  xy: 2, 172
+  size: 255, 254
+  orig: 255, 254
+  offset: 0, 0
+  index: -1
+lighe_3
+  rotate: false
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 259, 336
+  size: 89, 90
+  orig: 89, 90
   offset: 0, 0
   index: -1
