@@ -1,0 +1,111 @@
+
+deng_kuang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 846, 772
+  size: 117, 82
+  orig: 117, 82
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 651, 221
+  size: 259, 108
+  orig: 259, 108
+  offset: 0, 0
+  index: -1
+LLL
+  rotate: false
+  xy: 2, 756
+  size: 427, 266
+  orig: 427, 266
+  offset: 0, 0
+  index: -1
+bian
+  rotate: false
+  xy: 2, 258
+  size: 405, 244
+  orig: 405, 244
+  offset: 0, 0
+  index: -1
+bian_S
+  rotate: false
+  xy: 2, 12
+  size: 405, 244
+  orig: 405, 244
+  offset: 0, 0
+  index: -1
+di_kuang
+  rotate: false
+  xy: 2, 504
+  size: 413, 250
+  orig: 413, 250
+  offset: 0, 0
+  index: -1
+di_kuang _S
+  rotate: false
+  xy: 431, 772
+  size: 413, 250
+  orig: 413, 250
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 417, 743
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 409, 110
+  size: 240, 370
+  orig: 240, 370
+  offset: 0, 0
+  index: -1
+light_4
+  rotate: true
+  xy: 417, 482
+  size: 237, 392
+  orig: 237, 392
+  offset: 0, 0
+  index: -1
+light_5
+  rotate: false
+  xy: 651, 91
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+light_di
+  rotate: false
+  xy: 846, 856
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+linght_2
+  rotate: false
+  xy: 811, 688
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+xue
+  rotate: false
+  xy: 431, 721
+  size: 420, 49
+  orig: 420, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+W01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 2, 10
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 855, 323
+  size: 176, 85
+  orig: 176, 85
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 324, 14
+  size: 276, 96
+  orig: 276, 96
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 602, 10
+  size: 251, 100
+  orig: 251, 100
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 639, 118
+  size: 313, 203
+  orig: 313, 203
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 72
+  size: 427, 320
+  orig: 427, 320
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 324, 112
+  size: 313, 387
+  orig: 313, 387
+  offset: 0, 0
+  index: -1
