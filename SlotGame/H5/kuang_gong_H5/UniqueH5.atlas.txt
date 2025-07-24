@@ -1,0 +1,125 @@
+
+UniqueH5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 57, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+CASH
+  rotate: false
+  xy: 415, 456
+  size: 92, 54
+  orig: 92, 54
+  offset: 0, 0
+  index: -1
+Collect & Win!
+  rotate: true
+  xy: 2, 7
+  size: 240, 26
+  orig: 240, 26
+  offset: 0, 0
+  index: -1
+TG_1
+  rotate: false
+  xy: 57, 123
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+TG_3
+  rotate: false
+  xy: 154, 268
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+TG_4
+  rotate: false
+  xy: 183, 134
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+TG_5
+  rotate: true
+  xy: 280, 260
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+XB_2
+  rotate: false
+  xy: 286, 386
+  size: 127, 124
+  orig: 127, 124
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 415, 417
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+get
+  rotate: true
+  xy: 30, 8
+  size: 239, 25
+  orig: 239, 25
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 400
+  size: 282, 110
+  orig: 282, 110
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 249
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 309, 226
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 453, 422
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 154, 249
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 415, 387
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 57, 10
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
