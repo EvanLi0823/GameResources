@@ -1,5 +1,5 @@
 
-zhuan_chang.png
+zhuan_chang_1.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
