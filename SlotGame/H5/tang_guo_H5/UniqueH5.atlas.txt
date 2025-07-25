@@ -1,5 +1,5 @@
 
-tang_guo_H5.png
+UniqueH5.png
 size: 512,512
 format: RGBA8888
 filter: Linear,Linear
@@ -13,7 +13,7 @@ repeat: none
   index: -1
 CASH
   rotate: false
-  xy: 415, 456
+  xy: 414, 456
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
@@ -27,7 +27,7 @@ Collect & Win!
   index: -1
 TG_1
   rotate: true
-  xy: 280, 260
+  xy: 283, 260
   size: 124, 125
   orig: 124, 125
   offset: 0, 0
@@ -47,22 +47,22 @@ TG_4
   offset: 0, 0
   index: -1
 TG_5
-  rotate: false
-  xy: 154, 271
-  size: 124, 127
-  orig: 124, 127
+  rotate: true
+  xy: 286, 386
+  size: 124, 126
+  orig: 124, 126
   offset: 0, 0
   index: -1
 XB_2
   rotate: false
-  xy: 286, 386
+  xy: 154, 274
   size: 127, 124
   orig: 127, 124
   offset: 0, 0
   index: -1
 dian
   rotate: false
-  xy: 415, 417
+  xy: 414, 417
   size: 36, 37
   orig: 36, 37
   offset: 0, 0
@@ -97,21 +97,21 @@ m1
   index: -1
 m2
   rotate: false
-  xy: 453, 422
+  xy: 452, 422
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 p1
   rotate: false
-  xy: 154, 252
+  xy: 154, 255
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 p2
   rotate: false
-  xy: 415, 387
+  xy: 414, 387
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
