@@ -6,14 +6,14 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: true
-  xy: 57, 2
+  xy: 83, 2
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 CASH
   rotate: false
-  xy: 414, 456
+  xy: 415, 456
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
@@ -26,43 +26,43 @@ Collect & Win!
   offset: 0, 0
   index: -1
 TG_1
-  rotate: true
-  xy: 283, 260
-  size: 124, 125
-  orig: 124, 125
-  offset: 0, 0
-  index: -1
-TG_3
   rotate: false
-  xy: 57, 123
+  xy: 83, 123
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
+TG_3
+  rotate: false
+  xy: 154, 268
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
 TG_4
   rotate: false
-  xy: 183, 134
+  xy: 209, 134
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 TG_5
   rotate: true
-  xy: 286, 386
-  size: 124, 126
-  orig: 124, 126
+  xy: 280, 260
+  size: 124, 125
+  orig: 124, 125
   offset: 0, 0
   index: -1
 XB_2
   rotate: false
-  xy: 154, 274
+  xy: 286, 386
   size: 127, 124
   orig: 127, 124
   offset: 0, 0
   index: -1
 dian
   rotate: false
-  xy: 414, 417
+  xy: 335, 221
   size: 36, 37
   orig: 36, 37
   offset: 0, 0
@@ -72,6 +72,13 @@ get
   xy: 30, 8
   size: 239, 25
   orig: 239, 25
+  offset: 0, 0
+  index: -1
+here
+  rotate: true
+  xy: 57, 9
+  size: 238, 24
+  orig: 238, 24
   offset: 0, 0
   index: -1
 kuang
@@ -90,35 +97,35 @@ light
   index: -1
 m1
   rotate: false
-  xy: 309, 226
+  xy: 415, 422
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 m2
   rotate: false
-  xy: 452, 422
+  xy: 335, 187
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 p1
   rotate: false
-  xy: 154, 255
+  xy: 154, 249
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 p2
   rotate: false
-  xy: 414, 387
+  xy: 373, 230
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 p3
   rotate: false
-  xy: 57, 10
+  xy: 83, 10
   size: 107, 111
   orig: 107, 111
   offset: 0, 0
