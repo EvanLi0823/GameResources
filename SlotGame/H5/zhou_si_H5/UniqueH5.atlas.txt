@@ -1,5 +1,5 @@
 
-zeus_H5_1.png
+UniqueH5.png
 size: 512,512
 format: RGBA8888
 filter: Linear,Linear
@@ -25,39 +25,39 @@ Collect & Win!
   orig: 240, 26
   offset: 0, 0
   index: -1
-XB_2
-  rotate: false
-  xy: 154, 274
-  size: 127, 124
-  orig: 127, 124
-  offset: 0, 0
-  index: -1
-ZS_1
+TG_1
   rotate: false
   xy: 286, 386
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
-ZS_3
+TG_3
   rotate: false
   xy: 283, 260
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
-ZS_4
+TG_4
   rotate: false
   xy: 57, 123
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
-ZS_5
+TG_5
   rotate: false
   xy: 183, 134
   size: 124, 124
   orig: 124, 124
+  offset: 0, 0
+  index: -1
+XB_2
+  rotate: false
+  xy: 154, 274
+  size: 127, 124
+  orig: 127, 124
   offset: 0, 0
   index: -1
 dian

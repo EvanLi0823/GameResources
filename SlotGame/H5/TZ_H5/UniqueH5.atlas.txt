@@ -25,6 +25,34 @@ Collect & Win!
   orig: 240, 26
   offset: 0, 0
   index: -1
+TG_1
+  rotate: false
+  xy: 286, 386
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+TG_3
+  rotate: false
+  xy: 283, 260
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+TG_4
+  rotate: false
+  xy: 57, 123
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+TG_5
+  rotate: false
+  xy: 183, 134
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
 XB_2
   rotate: false
   xy: 154, 274
@@ -93,33 +121,5 @@ p3
   xy: 57, 10
   size: 107, 111
   orig: 107, 111
-  offset: 0, 0
-  index: -1
-tz1
-  rotate: false
-  xy: 286, 386
-  size: 124, 124
-  orig: 124, 124
-  offset: 0, 0
-  index: -1
-tz3
-  rotate: false
-  xy: 283, 260
-  size: 124, 124
-  orig: 124, 124
-  offset: 0, 0
-  index: -1
-tz4
-  rotate: false
-  xy: 57, 123
-  size: 124, 124
-  orig: 124, 124
-  offset: 0, 0
-  index: -1
-tz5
-  rotate: false
-  xy: 183, 134
-  size: 124, 124
-  orig: 124, 124
   offset: 0, 0
   index: -1
