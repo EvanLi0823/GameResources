@@ -1,12 +1,12 @@
 
-XB_H5.png
+UniqueH5.png
 size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 170, 108
+  xy: 196, 108
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
@@ -25,39 +25,39 @@ Collect & Win!
   orig: 240, 26
   offset: 0, 0
   index: -1
-XB_1
+TG_1
   rotate: true
   xy: 154, 259
   size: 137, 125
   orig: 137, 125
   offset: 0, 0
   index: -1
-XB_2
-  rotate: true
-  xy: 57, 118
-  size: 127, 124
-  orig: 127, 124
-  offset: 0, 0
-  index: -1
-XB_3
+TG_3
   rotate: false
   xy: 281, 258
   size: 129, 124
   orig: 129, 124
   offset: 0, 0
   index: -1
-XB_4
+TG_4
   rotate: false
-  xy: 183, 132
+  xy: 209, 132
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
-XB_5
+TG_5
   rotate: false
   xy: 286, 384
   size: 130, 124
   orig: 130, 124
+  offset: 0, 0
+  index: -1
+XB_2
+  rotate: true
+  xy: 83, 118
+  size: 127, 124
+  orig: 127, 124
   offset: 0, 0
   index: -1
 dian
@@ -72,6 +72,13 @@ get
   xy: 30, 6
   size: 239, 25
   orig: 239, 25
+  offset: 0, 0
+  index: -1
+here
+  rotate: true
+  xy: 57, 7
+  size: 238, 24
+  orig: 238, 24
   offset: 0, 0
   index: -1
 kuang
@@ -90,7 +97,7 @@ light
   index: -1
 m1
   rotate: false
-  xy: 309, 224
+  xy: 335, 224
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
@@ -104,7 +111,7 @@ m2
   index: -1
 p1
   rotate: false
-  xy: 309, 205
+  xy: 335, 205
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
@@ -118,7 +125,7 @@ p2
   index: -1
 p3
   rotate: true
-  xy: 57, 9
+  xy: 83, 9
   size: 107, 111
   orig: 107, 111
   offset: 0, 0
