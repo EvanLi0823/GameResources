@@ -6,64 +6,120 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 252, 292
-  size: 10, 9
-  orig: 10, 9
+  xy: 2, 3
+  size: 4, 3
+  orig: 4, 3
   offset: 0, 0
   index: -1
 L04
   rotate: false
-  xy: 281, 154
-  size: 118, 147
-  orig: 118, 147
+  xy: 2, 190
+  size: 95, 155
+  orig: 95, 155
   offset: 0, 0
   index: -1
-L04S
+L04_S
+  rotate: false
+  xy: 164, 353
+  size: 95, 155
+  orig: 95, 155
+  offset: 0, 0
+  index: -1
+by1
+  rotate: false
+  xy: 123, 102
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+by10
   rotate: true
-  xy: 152, 2
-  size: 118, 147
-  orig: 118, 147
+  xy: 99, 260
+  size: 85, 49
+  orig: 85, 49
   offset: 0, 0
   index: -1
-LL04
-  rotate: false
-  xy: 393, 382
-  size: 97, 118
-  orig: 97, 118
+by11
+  rotate: true
+  xy: 81, 109
+  size: 79, 40
+  orig: 79, 40
   offset: 0, 0
   index: -1
-dian1
-  rotate: false
-  xy: 301, 39
-  size: 96, 113
-  orig: 96, 113
+by12
+  rotate: true
+  xy: 455, 432
+  size: 76, 33
+  orig: 76, 33
   offset: 0, 0
   index: -1
-dian2
-  rotate: false
-  xy: 152, 122
-  size: 127, 165
-  orig: 127, 165
+by13
+  rotate: true
+  xy: 490, 440
+  size: 68, 20
+  orig: 68, 20
   offset: 0, 0
   index: -1
-dian3
-  rotate: false
-  xy: 252, 303
-  size: 139, 197
-  orig: 139, 197
+by2
+  rotate: true
+  xy: 123, 136
+  size: 52, 46
+  orig: 52, 46
   offset: 0, 0
   index: -1
-dian4
-  rotate: false
-  xy: 2, 57
-  size: 148, 230
-  orig: 148, 230
+by3
+  rotate: true
+  xy: 99, 190
+  size: 68, 59
+  orig: 68, 59
   offset: 0, 0
   index: -1
-shan1
+by4
+  rotate: true
+  xy: 2, 8
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+by5
   rotate: false
-  xy: 2, 289
-  size: 248, 211
-  orig: 248, 211
+  xy: 261, 431
+  size: 97, 77
+  orig: 97, 77
+  offset: 0, 0
+  index: -1
+by6
+  rotate: true
+  xy: 2, 89
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+by7
+  rotate: false
+  xy: 261, 353
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+by8
+  rotate: false
+  xy: 360, 431
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+by9
+  rotate: false
+  xy: 360, 356
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+light_y
+  rotate: false
+  xy: 2, 347
+  size: 160, 161
+  orig: 160, 161
   offset: 0, 0
   index: -1

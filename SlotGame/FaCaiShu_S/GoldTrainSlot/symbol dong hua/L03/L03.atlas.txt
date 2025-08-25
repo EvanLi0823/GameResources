@@ -1,69 +1,125 @@
 
 L03.png
-size: 1024,1024
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 252, 637
-  size: 10, 9
-  orig: 10, 9
+  xy: 149, 51
+  size: 4, 3
+  orig: 4, 3
   offset: 0, 0
   index: -1
 L03
   rotate: false
-  xy: 393, 694
-  size: 157, 151
-  orig: 157, 151
+  xy: 2, 198
+  size: 153, 149
+  orig: 153, 149
   offset: 0, 0
   index: -1
-L03S
+L03_S
   rotate: false
-  xy: 552, 694
-  size: 157, 151
-  orig: 157, 151
+  xy: 164, 361
+  size: 153, 149
+  orig: 153, 149
   offset: 0, 0
   index: -1
-LL03
+by1
   rotate: false
-  xy: 711, 723
-  size: 136, 122
-  orig: 136, 122
+  xy: 251, 327
+  size: 34, 32
+  orig: 34, 32
   offset: 0, 0
   index: -1
-dian1
+by10
   rotate: false
-  xy: 152, 519
-  size: 96, 113
-  orig: 96, 113
+  xy: 164, 310
+  size: 85, 49
+  orig: 85, 49
   offset: 0, 0
   index: -1
-dian2
+by11
   rotate: false
-  xy: 2, 235
-  size: 127, 165
-  orig: 127, 165
+  xy: 157, 268
+  size: 79, 40
+  orig: 79, 40
   offset: 0, 0
   index: -1
-dian3
+by12
   rotate: false
-  xy: 252, 648
-  size: 139, 197
-  orig: 139, 197
+  xy: 2, 6
+  size: 76, 33
+  orig: 76, 33
   offset: 0, 0
   index: -1
-dian4
-  rotate: false
-  xy: 2, 402
-  size: 148, 230
-  orig: 148, 230
+by13
+  rotate: true
+  xy: 157, 198
+  size: 68, 20
+  orig: 68, 20
   offset: 0, 0
   index: -1
-shan1
+by2
+  rotate: true
+  xy: 101, 2
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+by3
   rotate: false
-  xy: 2, 634
-  size: 248, 211
-  orig: 248, 211
+  xy: 101, 56
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+by4
+  rotate: true
+  xy: 103, 117
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+by5
+  rotate: false
+  xy: 319, 433
+  size: 97, 77
+  orig: 97, 77
+  offset: 0, 0
+  index: -1
+by6
+  rotate: false
+  xy: 2, 119
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+by7
+  rotate: false
+  xy: 2, 41
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+by8
+  rotate: false
+  xy: 319, 354
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+by9
+  rotate: false
+  xy: 418, 437
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+light_y
+  rotate: false
+  xy: 2, 349
+  size: 160, 161
+  orig: 160, 161
   offset: 0, 0
   index: -1
