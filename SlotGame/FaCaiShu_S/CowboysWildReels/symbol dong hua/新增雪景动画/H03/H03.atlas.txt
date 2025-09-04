@@ -1,0 +1,20 @@
+
+H03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H03
+  rotate: false
+  xy: 2, 144
+  size: 160, 140
+  orig: 160, 140
+  offset: 0, 0
+  index: -1
+H03 S
+  rotate: false
+  xy: 2, 2
+  size: 160, 140
+  orig: 160, 140
+  offset: 0, 0
+  index: -1
