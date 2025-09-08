@@ -4,73 +4,87 @@ size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+0
+  rotate: false
+  xy: 1003, 1016
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
 1
   rotate: false
-  xy: 2, 2
-  size: 124, 130
-  orig: 124, 130
+  xy: 2, 531
+  size: 385, 231
+  orig: 385, 231
   offset: 0, 0
   index: -1
 2
   rotate: false
-  xy: 684, 717
-  size: 124, 130
-  orig: 124, 130
+  xy: 391, 801
+  size: 351, 221
+  orig: 351, 221
   offset: 0, 0
   index: -1
 3
   rotate: false
-  xy: 810, 759
-  size: 90, 88
-  orig: 90, 88
+  xy: 2, 764
+  size: 387, 258
+  orig: 387, 258
   offset: 0, 0
   index: -1
-4
+C1
+  rotate: false
+  xy: 2, 2
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+C2
+  rotate: false
+  xy: 2, 259
+  size: 269, 270
+  orig: 269, 270
+  offset: 0, 0
+  index: -1
+C3
+  rotate: false
+  xy: 744, 781
+  size: 257, 241
+  orig: 257, 241
+  offset: 0, 0
+  index: -1
+C4
   rotate: true
-  xy: 128, 12
-  size: 120, 113
-  orig: 120, 113
+  xy: 459, 392
+  size: 205, 179
+  orig: 205, 179
   offset: 0, 0
   index: -1
-5
-  rotate: true
-  xy: 248, 202
-  size: 216, 136
-  orig: 216, 136
-  offset: 0, 0
-  index: -1
-6
+Light_2
   rotate: false
-  xy: 2, 619
-  size: 420, 400
-  orig: 420, 400
+  xy: 273, 298
+  size: 184, 231
+  orig: 184, 231
   offset: 0, 0
   index: -1
-7
+light_1
   rotate: false
-  xy: 2, 134
-  size: 244, 284
-  orig: 244, 284
+  xy: 391, 599
+  size: 210, 200
+  orig: 210, 200
   offset: 0, 0
   index: -1
-gai
+light_3
   rotate: false
-  xy: 424, 695
-  size: 258, 324
-  orig: 258, 324
+  xy: 603, 699
+  size: 98, 100
+  orig: 98, 100
   offset: 0, 0
   index: -1
-he_zi
+light_5
   rotate: false
-  xy: 2, 420
-  size: 389, 197
-  orig: 389, 197
-  offset: 0, 0
-  index: -1
-he_zi_2
-  rotate: false
-  xy: 684, 849
-  size: 288, 170
-  orig: 288, 170
+  xy: 459, 224
+  size: 166, 166
+  orig: 166, 166
   offset: 0, 0
   index: -1
