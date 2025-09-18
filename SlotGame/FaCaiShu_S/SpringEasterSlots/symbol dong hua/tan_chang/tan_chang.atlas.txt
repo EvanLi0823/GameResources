@@ -1,0 +1,195 @@
+
+tan_chang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 107, 233
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 378
+  size: 148, 158
+  orig: 148, 158
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 692, 931
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 192, 530
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 950, 936
+  size: 57, 86
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 328, 696
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 192, 618
+  size: 170, 67
+  orig: 170, 67
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 282, 764
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 871, 944
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 380, 702
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 115, 235
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 2, 790
+  size: 278, 232
+  orig: 278, 232
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 282, 820
+  size: 160, 202
+  orig: 160, 202
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 444, 824
+  size: 103, 198
+  orig: 103, 198
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 549, 831
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 783, 940
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 646, 842
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 115, 285
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 2, 241
+  size: 111, 135
+  orig: 111, 135
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 2, 538
+  size: 188, 250
+  orig: 188, 250
+  offset: 0, 0
+  index: -1
+29
+  rotate: true
+  xy: 59, 106
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 549, 922
+  size: 141, 100
+  orig: 141, 100
+  offset: 0, 0
+  index: -1
+31
+  rotate: true
+  xy: 2, 2
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 358, 755
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 92
+  size: 55, 147
+  orig: 55, 147
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 261, 695
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 261, 634
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
