@@ -1,61 +1,61 @@
 
 H01.png
-size: 1024,128
+size: 256,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 2, 2
+  xy: 222, 95
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 T1
   rotate: true
-  xy: 541, 89
+  xy: 87, 2
   size: 28, 68
   orig: 28, 68
   offset: 0, 0
   index: -1
 T2
-  rotate: true
-  xy: 463, 60
+  rotate: false
+  xy: 163, 25
   size: 57, 76
   orig: 57, 76
   offset: 0, 0
   index: -1
 T3
-  rotate: true
-  xy: 302, 11
+  rotate: false
+  xy: 230, 190
   size: 22, 61
   orig: 22, 61
   offset: 0, 0
   index: -1
 dan
-  rotate: true
-  xy: 2, 10
+  rotate: false
+  xy: 121, 103
   size: 107, 148
   orig: 107, 148
   offset: 0, 0
   index: -1
 dan_S
-  rotate: true
-  xy: 152, 10
-  size: 107, 148
-  orig: 107, 148
+  rotate: false
+  xy: 2, 103
+  size: 117, 148
+  orig: 117, 148
   offset: 0, 0
   index: -1
 light_1
   rotate: false
-  xy: 387, 48
+  xy: 87, 32
   size: 74, 69
   orig: 74, 69
   offset: 0, 0
   index: -1
 light_2
   rotate: false
-  xy: 302, 35
+  xy: 2, 19
   size: 83, 82
   orig: 83, 82
   offset: 0, 0
