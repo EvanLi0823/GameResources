@@ -1,0 +1,83 @@
+
+H05.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 246, 319
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 130, 251
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 341, 367
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 48, 101
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 130, 267
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 246, 325
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 130, 318
+  size: 114, 73
+  orig: 114, 73
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 52
+  size: 197, 44
+  orig: 197, 44
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 251
+  size: 126, 140
+  orig: 126, 140
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 48, 159
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
