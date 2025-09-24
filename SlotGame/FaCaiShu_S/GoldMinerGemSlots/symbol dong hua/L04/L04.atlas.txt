@@ -13,9 +13,9 @@ repeat: none
   index: -1
 L04
   rotate: true
-  xy: 709, 766
-  size: 97, 158
-  orig: 97, 158
+  xy: 709, 764
+  size: 99, 160
+  orig: 99, 160
   offset: 0, 0
   index: -1
 yy1
@@ -83,7 +83,7 @@ yy2
   index: -1
 yy3
   rotate: false
-  xy: 869, 741
+  xy: 871, 741
   size: 138, 118
   orig: 138, 118
   offset: 0, 0

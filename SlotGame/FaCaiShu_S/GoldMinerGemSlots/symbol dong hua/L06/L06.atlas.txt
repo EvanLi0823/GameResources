@@ -6,21 +6,21 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 535, 852
+  xy: 358, 846
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 L06
-  rotate: true
-  xy: 709, 751
-  size: 112, 148
-  orig: 112, 148
+  rotate: false
+  xy: 156, 4
+  size: 114, 150
+  orig: 114, 150
   offset: 0, 0
   index: -1
 yy1
   rotate: true
-  xy: 487, 755
+  xy: 272, 59
   size: 95, 82
   orig: 95, 82
   offset: 0, 0
@@ -76,21 +76,21 @@ yy16
   index: -1
 yy2
   rotate: false
-  xy: 358, 750
+  xy: 854, 639
   size: 127, 100
   orig: 127, 100
   offset: 0, 0
   index: -1
 yy3
   rotate: false
-  xy: 859, 741
+  xy: 854, 741
   size: 138, 118
   orig: 138, 118
   offset: 0, 0
   index: -1
 yy4
-  rotate: true
-  xy: 156, 11
+  rotate: false
+  xy: 709, 733
   size: 143, 130
   orig: 143, 130
   offset: 0, 0
