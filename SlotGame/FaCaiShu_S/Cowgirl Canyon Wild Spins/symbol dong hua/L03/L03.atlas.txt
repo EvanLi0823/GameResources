@@ -6,98 +6,98 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 488, 495
+  xy: 268, 360
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 L03
   rotate: false
-  xy: 2, 351
-  size: 183, 150
-  orig: 183, 150
+  xy: 2, 353
+  size: 137, 157
+  orig: 137, 157
   offset: 0, 0
   index: -1
 L03_s
   rotate: false
-  xy: 2, 199
-  size: 183, 150
-  orig: 183, 150
+  xy: 2, 194
+  size: 137, 157
+  orig: 137, 157
   offset: 0, 0
   index: -1
 dk
   rotate: false
-  xy: 187, 215
+  xy: 104, 61
   size: 35, 33
   orig: 35, 33
   offset: 0, 0
   index: -1
 qh1
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 442, 467
   size: 43, 53
   orig: 43, 53
   offset: 0, 0
   index: -1
 qh2
   rotate: false
-  xy: 187, 250
+  xy: 104, 96
   size: 79, 82
   orig: 79, 82
   offset: 0, 0
   index: -1
 qh3
   rotate: false
-  xy: 2, 57
+  xy: 2, 52
   size: 100, 140
   orig: 100, 140
   offset: 0, 0
   index: -1
 qh4
   rotate: false
-  xy: 187, 334
+  xy: 141, 343
   size: 125, 167
   orig: 125, 167
   offset: 0, 0
   index: -1
 y1
   rotate: false
-  xy: 104, 36
+  xy: 141, 180
   size: 47, 161
   orig: 47, 161
   offset: 0, 0
   index: -1
 y2
   rotate: false
-  xy: 153, 32
+  xy: 190, 176
   size: 46, 165
   orig: 46, 165
   offset: 0, 0
   index: -1
 y3
   rotate: true
-  xy: 314, 309
+  xy: 268, 368
   size: 46, 166
   orig: 46, 166
   offset: 0, 0
   index: -1
 y4
   rotate: true
-  xy: 314, 357
+  xy: 268, 416
   size: 46, 171
   orig: 46, 171
   offset: 0, 0
   index: -1
 y5
   rotate: true
-  xy: 314, 405
+  xy: 268, 464
   size: 46, 172
   orig: 46, 172
   offset: 0, 0
   index: -1
 y6
   rotate: true
-  xy: 314, 453
+  xy: 2, 2
   size: 48, 172
   orig: 48, 172
   offset: 0, 0
