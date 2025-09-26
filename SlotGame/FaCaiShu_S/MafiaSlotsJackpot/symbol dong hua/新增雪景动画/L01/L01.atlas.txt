@@ -1,0 +1,20 @@
+
+L01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L01
+  rotate: false
+  xy: 2, 2
+  size: 146, 152
+  orig: 146, 152
+  offset: 0, 0
+  index: -1
+L01 S
+  rotate: false
+  xy: 2, 156
+  size: 146, 152
+  orig: 146, 152
+  offset: 0, 0
+  index: -1
