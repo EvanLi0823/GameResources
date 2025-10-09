@@ -1,0 +1,83 @@
+
+L05.png
+size: 268,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L01
+  rotate: false
+  xy: 2, 106
+  size: 194, 160
+  orig: 194, 160
+  offset: 0, 0
+  index: -1
+L01_00
+  rotate: false
+  xy: 2, 54
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_01
+  rotate: false
+  xy: 198, 216
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_02
+  rotate: false
+  xy: 2, 2
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_03
+  rotate: false
+  xy: 64, 54
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_04
+  rotate: false
+  xy: 198, 164
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_05
+  rotate: false
+  xy: 64, 2
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_06
+  rotate: false
+  xy: 126, 54
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_07
+  rotate: false
+  xy: 198, 112
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_08
+  rotate: false
+  xy: 126, 2
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+L01_09
+  rotate: true
+  xy: 188, 44
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1

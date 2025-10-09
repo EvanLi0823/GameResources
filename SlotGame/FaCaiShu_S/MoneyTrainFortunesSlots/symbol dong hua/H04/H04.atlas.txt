@@ -1,0 +1,167 @@
+
+H04.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 695, 896
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 955, 890
+  size: 131, 67
+  orig: 131, 67
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 217, 590
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 135, 488
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 248, 735
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+H04
+  rotate: false
+  xy: 2, 732
+  size: 131, 126
+  orig: 131, 126
+  offset: 0, 0
+  index: -1
+H04_S
+  rotate: false
+  xy: 164, 895
+  size: 131, 126
+  orig: 131, 126
+  offset: 0, 0
+  index: -1
+S1
+  rotate: true
+  xy: 164, 819
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+S10
+  rotate: false
+  xy: 2, 478
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+S11
+  rotate: false
+  xy: 430, 896
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+S12
+  rotate: false
+  xy: 695, 902
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+S13
+  rotate: false
+  xy: 135, 714
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+S14
+  rotate: false
+  xy: 135, 622
+  size: 98, 90
+  orig: 98, 90
+  offset: 0, 0
+  index: -1
+S15
+  rotate: false
+  xy: 135, 550
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+S2
+  rotate: true
+  xy: 2, 2
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+S3
+  rotate: true
+  xy: 828, 911
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+S4
+  rotate: false
+  xy: 2, 97
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+S5
+  rotate: false
+  xy: 2, 224
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+S6
+  rotate: false
+  xy: 2, 351
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+S7
+  rotate: false
+  xy: 563, 896
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+S8
+  rotate: false
+  xy: 2, 605
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+S9
+  rotate: false
+  xy: 297, 896
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+light_y
+  rotate: false
+  xy: 2, 860
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
