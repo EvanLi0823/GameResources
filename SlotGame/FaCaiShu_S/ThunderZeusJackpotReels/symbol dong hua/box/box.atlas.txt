@@ -1,0 +1,34 @@
+
+box.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: false
+  xy: 2, 327
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: true
+  xy: 186, 426
+  size: 75, 221
+  orig: 75, 221
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 2, 90
+  size: 86, 235
+  orig: 86, 235
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 2, 2
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
