@@ -6,63 +6,56 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 252, 300
+  xy: 252, 289
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 L06
   rotate: false
-  xy: 281, 162
+  xy: 281, 151
   size: 131, 147
   orig: 131, 147
   offset: 0, 0
   index: -1
 L06S
   rotate: false
-  xy: 281, 13
+  xy: 281, 2
   size: 131, 147
   orig: 131, 147
   offset: 0, 0
   index: -1
-LL06
-  rotate: false
-  xy: 393, 389
-  size: 110, 119
-  orig: 110, 119
-  offset: 0, 0
-  index: -1
 dian1
   rotate: false
-  xy: 414, 274
+  xy: 393, 384
   size: 96, 113
   orig: 96, 113
   offset: 0, 0
   index: -1
 dian2
   rotate: false
-  xy: 152, 130
+  xy: 152, 119
   size: 127, 165
   orig: 127, 165
   offset: 0, 0
   index: -1
 dian3
   rotate: false
-  xy: 252, 311
+  xy: 252, 300
   size: 139, 197
   orig: 139, 197
   offset: 0, 0
   index: -1
 dian4
   rotate: false
-  xy: 2, 65
+  xy: 2, 54
   size: 148, 230
   orig: 148, 230
   offset: 0, 0
   index: -1
 shan1
   rotate: false
-  xy: 2, 297
+  xy: 2, 286
   size: 248, 211
   orig: 248, 211
   offset: 0, 0

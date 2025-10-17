@@ -13,16 +13,9 @@ L01
   index: -1
 L01S
   rotate: false
-  xy: 296, 2
+  xy: 281, 2
   size: 161, 145
   orig: 161, 145
-  offset: 0, 0
-  index: -1
-LL01
-  rotate: false
-  xy: 152, 11
-  size: 142, 118
-  orig: 142, 118
   offset: 0, 0
   index: -1
 dian1
