@@ -1,0 +1,27 @@
+
+L03.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 92
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+Q
+  rotate: false
+  xy: 2, 98
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+Q s
+  rotate: false
+  xy: 127, 98
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1

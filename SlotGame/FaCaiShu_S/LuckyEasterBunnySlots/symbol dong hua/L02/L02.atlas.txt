@@ -1,0 +1,27 @@
+
+L02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 140, 302
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 2, 2
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1
+Ks
+  rotate: false
+  xy: 2, 155
+  size: 136, 151
+  orig: 136, 151
+  offset: 0, 0
+  index: -1
