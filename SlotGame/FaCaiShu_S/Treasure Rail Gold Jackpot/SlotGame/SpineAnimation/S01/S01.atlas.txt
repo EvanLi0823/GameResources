@@ -1,0 +1,62 @@
+
+S01.png
+size: 581,579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 199, 15
+  size: 182, 110
+  orig: 182, 110
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 258
+  size: 182, 319
+  orig: 182, 319
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 186, 262
+  size: 52, 8
+  orig: 52, 8
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 387, 258
+  size: 119, 117
+  orig: 119, 117
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 34
+  size: 195, 222
+  orig: 195, 222
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 186, 316
+  size: 195, 261
+  orig: 195, 261
+  offset: 0, 0
+  index: -1
+spine_circus_chess_ui_collect_getsugar=par_07
+  rotate: true
+  xy: 199, 127
+  size: 187, 186
+  orig: 187, 186
+  offset: 0, 0
+  index: -1
+spine_tree_chess_effect=flash01
+  rotate: true
+  xy: 383, 377
+  size: 200, 196
+  orig: 200, 196
+  offset: 0, 0
+  index: -1
