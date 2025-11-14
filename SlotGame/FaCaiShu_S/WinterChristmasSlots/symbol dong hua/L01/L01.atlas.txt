@@ -1,0 +1,55 @@
+
+L01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L01
+  rotate: true
+  xy: 281, 149
+  size: 161, 145
+  orig: 161, 145
+  offset: 0, 0
+  index: -1
+L01S
+  rotate: false
+  xy: 281, 2
+  size: 161, 145
+  orig: 161, 145
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: false
+  xy: 393, 396
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 152, 131
+  size: 127, 165
+  orig: 127, 165
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 252, 312
+  size: 139, 197
+  orig: 139, 197
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 2, 66
+  size: 148, 230
+  orig: 148, 230
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: false
+  xy: 2, 298
+  size: 248, 211
+  orig: 248, 211
+  offset: 0, 0
+  index: -1
