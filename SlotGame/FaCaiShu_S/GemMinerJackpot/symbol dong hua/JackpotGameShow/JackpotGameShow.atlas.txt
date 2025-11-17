@@ -1,5 +1,5 @@
 
-zhuan_chang_1.png
+JackpotGameShow.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -19,10 +19,10 @@ repeat: none
   offset: 0, 0
   index: -1
 10
-  rotate: true
-  xy: 1870, 748
-  size: 158, 93
-  orig: 158, 93
+  rotate: false
+  xy: 1673, 442
+  size: 158, 143
+  orig: 158, 143
   offset: 0, 0
   index: -1
 11
@@ -186,6 +186,20 @@ bag8
   orig: 384, 380
   offset: 0, 0
   index: -1
+bs1
+  rotate: false
+  xy: 176, 25
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+bs2
+  rotate: false
+  xy: 235, 26
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
 by1
   rotate: false
   xy: 1965, 1715
@@ -202,7 +216,7 @@ by10
   index: -1
 by11
   rotate: false
-  xy: 1673, 420
+  xy: 1702, 11
   size: 79, 40
   orig: 79, 40
   offset: 0, 0
@@ -223,7 +237,7 @@ by13
   index: -1
 by2
   rotate: false
-  xy: 176, 31
+  xy: 288, 21
   size: 52, 46
   orig: 52, 46
   offset: 0, 0
@@ -355,10 +369,10 @@ light_1
   offset: 0, 0
   index: -1
 mk38
-  rotate: true
-  xy: 1702, 2
-  size: 49, 38
-  orig: 49, 38
+  rotate: false
+  xy: 1372, 41
+  size: 57, 52
+  orig: 57, 52
   offset: 0, 0
   index: -1
 s1
@@ -516,8 +530,8 @@ yy15
   offset: 0, 0
   index: -1
 yy16
-  rotate: false
-  xy: 1673, 462
+  rotate: true
+  xy: 1870, 743
   size: 163, 123
   orig: 163, 123
   offset: 0, 0
@@ -538,7 +552,7 @@ yy3
   index: -1
 yy4
   rotate: true
-  xy: 1861, 599
+  xy: 1861, 598
   size: 143, 130
   orig: 143, 130
   offset: 0, 0
