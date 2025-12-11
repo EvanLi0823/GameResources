@@ -1,0 +1,167 @@
+
+H01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 995, 878
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+H01
+  rotate: true
+  xy: 2, 680
+  size: 174, 133
+  orig: 174, 133
+  offset: 0, 0
+  index: -1
+H01_S
+  rotate: false
+  xy: 164, 884
+  size: 174, 133
+  orig: 174, 133
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 2, 856
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 137, 350
+  size: 95, 130
+  orig: 95, 130
+  offset: 0, 0
+  index: -1
+s10
+  rotate: false
+  xy: 516, 884
+  size: 172, 133
+  orig: 172, 133
+  offset: 0, 0
+  index: -1
+s11
+  rotate: true
+  xy: 2, 158
+  size: 169, 133
+  orig: 169, 133
+  offset: 0, 0
+  index: -1
+s12
+  rotate: false
+  xy: 690, 884
+  size: 164, 133
+  orig: 164, 133
+  offset: 0, 0
+  index: -1
+s13
+  rotate: true
+  xy: 2, 2
+  size: 154, 133
+  orig: 154, 133
+  offset: 0, 0
+  index: -1
+s14
+  rotate: false
+  xy: 164, 749
+  size: 150, 133
+  orig: 150, 133
+  offset: 0, 0
+  index: -1
+s15
+  rotate: false
+  xy: 465, 749
+  size: 139, 133
+  orig: 139, 133
+  offset: 0, 0
+  index: -1
+s16
+  rotate: false
+  xy: 741, 749
+  size: 127, 133
+  orig: 127, 133
+  offset: 0, 0
+  index: -1
+s17
+  rotate: false
+  xy: 137, 615
+  size: 114, 132
+  orig: 114, 132
+  offset: 0, 0
+  index: -1
+s18
+  rotate: false
+  xy: 253, 619
+  size: 100, 128
+  orig: 100, 128
+  offset: 0, 0
+  index: -1
+s19
+  rotate: false
+  xy: 355, 631
+  size: 91, 116
+  orig: 91, 116
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 137, 482
+  size: 109, 131
+  orig: 109, 131
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 870, 749
+  size: 123, 133
+  orig: 123, 133
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 606, 749
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 316, 749
+  size: 147, 133
+  orig: 147, 133
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 856, 884
+  size: 162, 133
+  orig: 162, 133
+  offset: 0, 0
+  index: -1
+s7
+  rotate: true
+  xy: 2, 329
+  size: 173, 133
+  orig: 173, 133
+  offset: 0, 0
+  index: -1
+s8
+  rotate: true
+  xy: 2, 504
+  size: 174, 133
+  orig: 174, 133
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 340, 884
+  size: 174, 133
+  orig: 174, 133
+  offset: 0, 0
+  index: -1
