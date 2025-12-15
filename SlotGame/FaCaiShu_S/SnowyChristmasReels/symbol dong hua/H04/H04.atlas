@@ -6,9 +6,23 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 497, 322
+  xy: 347, 354
   size: 4, 4
   orig: 4, 4
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 54, 40
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 497, 278
+  size: 48, 13
+  orig: 48, 13
   offset: 0, 0
   index: -1
 H04
@@ -104,7 +118,7 @@ S9
   index: -1
 light_1
   rotate: false
-  xy: 54, 37
+  xy: 54, 17
   size: 20, 21
   orig: 20, 21
   offset: 0, 0

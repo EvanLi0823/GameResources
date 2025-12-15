@@ -1,48 +1,48 @@
 
-L02.png
-size: 512,512
+L04.png
+size: 256,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 285, 350
+  xy: 2, 27
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 1
   rotate: false
-  xy: 154, 182
+  xy: 211, 209
   size: 38, 38
   orig: 38, 38
   offset: 0, 0
   index: -1
 2
   rotate: false
-  xy: 2, 2
+  xy: 2, 31
   size: 83, 84
   orig: 83, 84
   offset: 0, 0
   index: -1
 3
   rotate: false
-  xy: 154, 222
+  xy: 2, 117
   size: 129, 130
   orig: 129, 130
   offset: 0, 0
   index: -1
-L02
+L04
   rotate: false
-  xy: 2, 221
-  size: 150, 131
-  orig: 150, 131
+  xy: 133, 109
+  size: 76, 138
+  orig: 76, 138
   offset: 0, 0
   index: -1
-L02_S
-  rotate: false
-  xy: 2, 88
-  size: 150, 131
-  orig: 150, 131
+L04_S
+  rotate: true
+  xy: 87, 31
+  size: 76, 138
+  orig: 76, 138
   offset: 0, 0
   index: -1

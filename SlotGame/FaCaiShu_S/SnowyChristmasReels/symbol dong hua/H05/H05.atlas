@@ -20,9 +20,9 @@ repeat: none
   index: -1
 2
   rotate: false
-  xy: 305, 832
-  size: 39, 38
-  orig: 39, 38
+  xy: 221, 708
+  size: 39, 37
+  orig: 39, 37
   offset: 0, 0
   index: -1
 3
@@ -34,9 +34,9 @@ repeat: none
   index: -1
 4
   rotate: false
-  xy: 220, 753
-  size: 57, 31
-  orig: 57, 31
+  xy: 221, 747
+  size: 57, 29
+  orig: 57, 29
   offset: 0, 0
   index: -1
 5
@@ -56,13 +56,13 @@ H05
 H05_S
   rotate: false
   xy: 2, 697
-  size: 132, 149
-  orig: 132, 149
+  size: 133, 149
+  orig: 133, 149
   offset: 0, 0
   index: -1
 S1
   rotate: false
-  xy: 136, 698
+  xy: 137, 698
   size: 82, 148
   orig: 82, 148
   offset: 0, 0
@@ -130,6 +130,13 @@ S9
   orig: 100, 149
   offset: 0, 0
   index: -1
+km1
+  rotate: false
+  xy: 221, 778
+  size: 102, 92
+  orig: 102, 92
+  offset: 0, 0
+  index: -1
 light_G
   rotate: false
   xy: 2, 848
@@ -139,7 +146,7 @@ light_G
   index: -1
 x1
   rotate: false
-  xy: 220, 713
+  xy: 280, 738
   size: 38, 38
   orig: 38, 38
   offset: 0, 0
@@ -153,7 +160,7 @@ x2
   index: -1
 x3
   rotate: false
-  xy: 220, 786
+  xy: 325, 786
   size: 83, 84
   orig: 83, 84
   offset: 0, 0
