@@ -1,0 +1,34 @@
+
+H05.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 26
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+H05
+  rotate: false
+  xy: 2, 30
+  size: 179, 149
+  orig: 179, 149
+  offset: 0, 0
+  index: -1
+H05_S
+  rotate: false
+  xy: 225, 253
+  size: 179, 149
+  orig: 179, 149
+  offset: 0, 0
+  index: -1
+light_G
+  rotate: false
+  xy: 2, 181
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
