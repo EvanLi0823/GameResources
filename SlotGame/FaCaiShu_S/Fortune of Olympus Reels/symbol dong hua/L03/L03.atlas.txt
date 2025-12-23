@@ -1,0 +1,62 @@
+
+L03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 498
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+L03
+  rotate: false
+  xy: 234, 215
+  size: 157, 151
+  orig: 157, 151
+  offset: 0, 0
+  index: -1
+L03S
+  rotate: false
+  xy: 2, 77
+  size: 157, 151
+  orig: 157, 151
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: true
+  xy: 14, 411
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: true
+  xy: 129, 380
+  size: 127, 165
+  orig: 127, 165
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: true
+  xy: 296, 368
+  size: 139, 197
+  orig: 139, 197
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: true
+  xy: 2, 230
+  size: 148, 230
+  orig: 148, 230
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: false
+  xy: 161, 2
+  size: 248, 211
+  orig: 248, 211
+  offset: 0, 0
+  index: -1
