@@ -6,7 +6,7 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 148, 176
+  xy: 158, 177
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
@@ -20,7 +20,7 @@ repeat: none
   index: -1
 2
   rotate: false
-  xy: 148, 180
+  xy: 158, 181
   size: 38, 41
   orig: 38, 41
   offset: 0, 0
@@ -35,8 +35,8 @@ repeat: none
 7
   rotate: false
   xy: 2, 73
-  size: 144, 148
-  orig: 144, 148
+  size: 154, 149
+  orig: 154, 149
   offset: 0, 0
   index: -1
 s1
