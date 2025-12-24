@@ -6,126 +6,126 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 535, 852
+  xy: 156, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 L02
   rotate: false
-  xy: 156, 4
-  size: 149, 150
-  orig: 149, 150
+  xy: 156, 8
+  size: 147, 148
+  orig: 147, 148
   offset: 0, 0
   index: -1
 yy1
   rotate: false
-  xy: 358, 768
+  xy: 358, 770
   size: 95, 82
   orig: 95, 82
   offset: 0, 0
   index: -1
 yy10
   rotate: false
-  xy: 358, 852
+  xy: 358, 854
   size: 175, 168
   orig: 175, 168
   offset: 0, 0
   index: -1
 yy11
   rotate: false
-  xy: 2, 489
+  xy: 2, 491
   size: 174, 172
   orig: 174, 172
   offset: 0, 0
   index: -1
 yy12
   rotate: false
-  xy: 2, 663
+  xy: 2, 665
   size: 175, 177
   orig: 175, 177
   offset: 0, 0
   index: -1
 yy13
   rotate: false
-  xy: 2, 842
+  xy: 2, 844
   size: 178, 178
   orig: 178, 178
   offset: 0, 0
   index: -1
 yy14
   rotate: true
-  xy: 2, 143
+  xy: 2, 145
   size: 176, 150
   orig: 176, 150
   offset: 0, 0
   index: -1
 yy15
   rotate: false
-  xy: 182, 846
+  xy: 182, 848
   size: 174, 174
   orig: 174, 174
   offset: 0, 0
   index: -1
 yy16
   rotate: true
-  xy: 154, 156
+  xy: 154, 158
   size: 163, 123
   orig: 163, 123
   offset: 0, 0
   index: -1
 yy2
   rotate: false
-  xy: 854, 639
+  xy: 854, 641
   size: 127, 100
   orig: 127, 100
   offset: 0, 0
   index: -1
 yy3
   rotate: false
-  xy: 854, 741
+  xy: 854, 743
   size: 138, 118
   orig: 138, 118
   offset: 0, 0
   index: -1
 yy4
   rotate: false
-  xy: 709, 733
+  xy: 709, 735
   size: 143, 130
   orig: 143, 130
   offset: 0, 0
   index: -1
 yy5
   rotate: false
-  xy: 2, 3
+  xy: 2, 5
   size: 152, 138
   orig: 152, 138
   offset: 0, 0
   index: -1
 yy6
   rotate: true
-  xy: 874, 861
+  xy: 874, 863
   size: 159, 148
   orig: 159, 148
   offset: 0, 0
   index: -1
 yy7
   rotate: false
-  xy: 709, 865
+  xy: 709, 867
   size: 163, 155
   orig: 163, 155
   offset: 0, 0
   index: -1
 yy8
   rotate: false
-  xy: 535, 858
+  xy: 535, 860
   size: 172, 162
   orig: 172, 162
   offset: 0, 0
   index: -1
 yy9
   rotate: false
-  xy: 2, 321
+  xy: 2, 323
   size: 173, 166
   orig: 173, 166
   offset: 0, 0

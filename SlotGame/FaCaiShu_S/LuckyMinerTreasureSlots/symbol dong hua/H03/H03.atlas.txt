@@ -1,34 +1,167 @@
 
 H03.png
-size: 512,512
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 2, 6
+  xy: 2, 52
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 H03
   rotate: false
-  xy: 2, 12
+  xy: 2, 650
   size: 158, 146
   orig: 158, 146
   offset: 0, 0
   index: -1
 H03s
   rotate: false
-  xy: 225, 235
+  xy: 225, 873
   size: 158, 146
   orig: 158, 146
   offset: 0, 0
   index: -1
 light_1
   rotate: false
-  xy: 2, 160
+  xy: 2, 798
   size: 221, 221
   orig: 221, 221
+  offset: 0, 0
+  index: -1
+s10
+  rotate: false
+  xy: 385, 873
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+s11
+  rotate: false
+  xy: 2, 354
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+s12
+  rotate: false
+  xy: 545, 873
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+s13
+  rotate: false
+  xy: 2, 206
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+s14
+  rotate: false
+  xy: 705, 873
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+s15
+  rotate: false
+  xy: 2, 58
+  size: 158, 146
+  orig: 158, 146
+  offset: 0, 0
+  index: -1
+s16
+  rotate: false
+  xy: 225, 725
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+s17
+  rotate: false
+  xy: 683, 725
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+s18
+  rotate: false
+  xy: 831, 725
+  size: 142, 146
+  orig: 142, 146
+  offset: 0, 0
+  index: -1
+s19
+  rotate: false
+  xy: 305, 577
+  size: 131, 146
+  orig: 131, 146
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 299, 429
+  size: 123, 146
+  orig: 123, 146
+  offset: 0, 0
+  index: -1
+s20
+  rotate: false
+  xy: 438, 577
+  size: 119, 146
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 162, 281
+  size: 129, 146
+  orig: 129, 146
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 162, 429
+  size: 135, 146
+  orig: 135, 146
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 162, 577
+  size: 141, 146
+  orig: 141, 146
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 535, 725
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 381, 725
+  size: 152, 146
+  orig: 152, 146
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 865, 873
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 2, 502
+  size: 158, 146
+  orig: 158, 146
   offset: 0, 0
   index: -1
