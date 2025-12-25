@@ -1,20 +1,20 @@
 
 L06.png
-size: 128,512
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 L06
   rotate: false
-  xy: 2, 149
-  size: 116, 145
-  orig: 116, 145
+  xy: 2, 157
+  size: 133, 153
+  orig: 133, 153
   offset: 0, 0
   index: -1
 L06 S
   rotate: false
   xy: 2, 2
-  size: 116, 145
-  orig: 116, 145
+  size: 133, 153
+  orig: 133, 153
   offset: 0, 0
   index: -1

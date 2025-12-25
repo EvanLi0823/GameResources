@@ -1,20 +1,27 @@
 
 H02.png
-size: 512,256
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
+0
+  rotate: false
+  xy: 149, 280
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
 H02
   rotate: false
-  xy: 2, 2
-  size: 143, 132
-  orig: 143, 132
+  xy: 2, 144
+  size: 145, 140
+  orig: 145, 140
   offset: 0, 0
   index: -1
 H02 S
   rotate: false
-  xy: 147, 2
-  size: 143, 132
-  orig: 143, 132
+  xy: 2, 2
+  size: 145, 140
+  orig: 145, 140
   offset: 0, 0
   index: -1

@@ -1,62 +1,83 @@
 
 W01.png
-size: 1024,512
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 2, 2
+  xy: 307, 281
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 1
-  rotate: true
-  xy: 2, 10
-  size: 60, 50
-  orig: 60, 50
+  rotate: false
+  xy: 318, 334
+  size: 62, 62
+  orig: 62, 62
   offset: 0, 0
   index: -1
 2
-  rotate: true
-  xy: 855, 323
+  rotate: false
+  xy: 747, 809
   size: 176, 85
   orig: 176, 85
   offset: 0, 0
   index: -1
 3
-  rotate: false
-  xy: 324, 14
+  rotate: true
+  xy: 318, 398
   size: 276, 96
   orig: 276, 96
   offset: 0, 0
   index: -1
 4
   rotate: false
-  xy: 602, 10
+  xy: 747, 896
   size: 251, 100
   orig: 251, 100
   offset: 0, 0
   index: -1
 5
   rotate: false
-  xy: 639, 118
-  size: 313, 203
-  orig: 313, 203
+  xy: 431, 793
+  size: 314, 203
+  orig: 314, 203
   offset: 0, 0
   index: -1
 di
-  rotate: true
-  xy: 2, 72
+  rotate: false
+  xy: 2, 676
   size: 427, 320
   orig: 427, 320
   offset: 0, 0
   index: -1
 s
   rotate: false
-  xy: 324, 112
-  size: 313, 387
-  orig: 313, 387
+  xy: 2, 289
+  size: 314, 385
+  orig: 314, 385
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 2, 116
+  size: 177, 93
+  orig: 177, 93
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 431, 709
+  size: 282, 82
+  orig: 282, 82
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 2, 211
+  size: 303, 76
+  orig: 303, 76
   offset: 0, 0
   index: -1
