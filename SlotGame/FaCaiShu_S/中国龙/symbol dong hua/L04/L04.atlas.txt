@@ -1,48 +1,146 @@
 
 L04.png
-size: 256,256
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 2, 29
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-1
-  rotate: false
-  xy: 213, 211
-  size: 38, 38
-  orig: 38, 38
-  offset: 0, 0
-  index: -1
-2
-  rotate: false
-  xy: 2, 33
-  size: 83, 84
-  orig: 83, 84
-  offset: 0, 0
-  index: -1
-3
-  rotate: false
-  xy: 2, 119
-  size: 129, 130
-  orig: 129, 130
+  xy: 455, 479
+  size: 4, 4
+  orig: 4, 4
   offset: 0, 0
   index: -1
 L04
   rotate: false
-  xy: 133, 110
-  size: 78, 139
-  orig: 78, 139
+  xy: 2, 214
+  size: 89, 106
+  orig: 89, 106
   offset: 0, 0
   index: -1
 L04_S
+  rotate: false
+  xy: 164, 377
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: false
+  xy: 2, 322
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+yh1
+  rotate: false
+  xy: 68, 64
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+yh10
+  rotate: false
+  xy: 255, 417
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+yh11
+  rotate: false
+  xy: 2, 146
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+yh12
+  rotate: false
+  xy: 93, 254
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+yh13
+  rotate: false
+  xy: 159, 251
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+yh14
   rotate: true
-  xy: 87, 30
-  size: 78, 139
-  orig: 78, 139
+  xy: 2, 79
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+yh15
+  rotate: true
+  xy: 93, 189
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+yh16
+  rotate: false
+  xy: 159, 187
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: false
+  xy: 66, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+yh3
+  rotate: true
+  xy: 320, 422
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+yh4
+  rotate: true
+  xy: 164, 315
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+yh5
+  rotate: false
+  xy: 131, 125
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+yh6
+  rotate: true
+  xy: 255, 356
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+yh7
+  rotate: false
+  xy: 68, 126
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+yh8
+  rotate: true
+  xy: 389, 422
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+yh9
+  rotate: false
+  xy: 2, 12
+  size: 62, 65
+  orig: 62, 65
   offset: 0, 0
   index: -1
