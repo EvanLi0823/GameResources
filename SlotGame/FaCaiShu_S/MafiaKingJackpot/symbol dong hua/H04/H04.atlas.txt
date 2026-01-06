@@ -28,8 +28,8 @@ repeat: none
 3
   rotate: false
   xy: 2, 2
-  size: 147, 138
-  orig: 147, 138
+  size: 146, 138
+  orig: 146, 138
   offset: 0, 0
   index: -1
 light_1
