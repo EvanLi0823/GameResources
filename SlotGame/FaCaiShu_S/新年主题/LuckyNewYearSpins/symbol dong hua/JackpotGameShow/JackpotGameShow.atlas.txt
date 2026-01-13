@@ -1,0 +1,146 @@
+
+JackpotGameShow.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 987, 1765
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 882
+  size: 326, 545
+  orig: 326, 545
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 2, 1429
+  size: 360, 615
+  orig: 360, 615
+  offset: 0, 0
+  index: -1
+light_q
+  rotate: true
+  xy: 1934, 1934
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+light_y
+  rotate: false
+  xy: 562, 769
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
+m
+  rotate: true
+  xy: 1934, 1797
+  size: 135, 92
+  orig: 135, 92
+  offset: 0, 0
+  index: -1
+yh1
+  rotate: true
+  xy: 599, 957
+  size: 230, 228
+  orig: 230, 228
+  offset: 0, 0
+  index: -1
+yh2
+  rotate: false
+  xy: 1302, 1791
+  size: 314, 253
+  orig: 314, 253
+  offset: 0, 0
+  index: -1
+yh3
+  rotate: true
+  xy: 2, 274
+  size: 313, 273
+  orig: 313, 273
+  offset: 0, 0
+  index: -1
+yh4
+  rotate: false
+  xy: 364, 1465
+  size: 309, 286
+  orig: 309, 286
+  offset: 0, 0
+  index: -1
+yh5
+  rotate: false
+  xy: 364, 1753
+  size: 310, 291
+  orig: 310, 291
+  offset: 0, 0
+  index: -1
+yh6
+  rotate: true
+  xy: 277, 299
+  size: 288, 274
+  orig: 288, 274
+  offset: 0, 0
+  index: -1
+yh7
+  rotate: false
+  xy: 2, 17
+  size: 267, 255
+  orig: 267, 255
+  offset: 0, 0
+  index: -1
+yz1
+  rotate: false
+  xy: 330, 702
+  size: 230, 228
+  orig: 230, 228
+  offset: 0, 0
+  index: -1
+yz2
+  rotate: false
+  xy: 1618, 1791
+  size: 314, 253
+  orig: 314, 253
+  offset: 0, 0
+  index: -1
+yz3
+  rotate: false
+  xy: 987, 1771
+  size: 313, 273
+  orig: 313, 273
+  offset: 0, 0
+  index: -1
+yz4
+  rotate: false
+  xy: 676, 1758
+  size: 309, 286
+  orig: 309, 286
+  offset: 0, 0
+  index: -1
+yz5
+  rotate: false
+  xy: 2, 589
+  size: 310, 291
+  orig: 310, 291
+  offset: 0, 0
+  index: -1
+yz6
+  rotate: false
+  xy: 364, 1189
+  size: 288, 274
+  orig: 288, 274
+  offset: 0, 0
+  index: -1
+yz7
+  rotate: false
+  xy: 330, 932
+  size: 267, 255
+  orig: 267, 255
+  offset: 0, 0
+  index: -1
