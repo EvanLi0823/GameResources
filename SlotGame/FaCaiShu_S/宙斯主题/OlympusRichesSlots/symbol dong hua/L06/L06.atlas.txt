@@ -1,0 +1,62 @@
+
+L06.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 252, 293
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+L06
+  rotate: false
+  xy: 281, 153
+  size: 131, 149
+  orig: 131, 149
+  offset: 0, 0
+  index: -1
+L06S
+  rotate: false
+  xy: 281, 2
+  size: 131, 149
+  orig: 131, 149
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: false
+  xy: 393, 388
+  size: 96, 113
+  orig: 96, 113
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 152, 123
+  size: 127, 165
+  orig: 127, 165
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 252, 304
+  size: 139, 197
+  orig: 139, 197
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 2, 58
+  size: 148, 230
+  orig: 148, 230
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: false
+  xy: 2, 290
+  size: 248, 211
+  orig: 248, 211
+  offset: 0, 0
+  index: -1
