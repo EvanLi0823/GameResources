@@ -6,29 +6,29 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 160, 167
+  xy: 245, 242
   size: 9, 10
   orig: 9, 10
   offset: 0, 0
   index: -1
 1
   rotate: false
-  xy: 2, 73
-  size: 156, 180
-  orig: 156, 180
+  xy: 2, 69
+  size: 163, 183
+  orig: 163, 183
   offset: 0, 0
   index: -1
 4
-  rotate: true
-  xy: 160, 179
-  size: 74, 94
-  orig: 74, 94
+  rotate: false
+  xy: 167, 156
+  size: 76, 96
+  orig: 76, 96
   offset: 0, 0
   index: -1
 5
-  rotate: true
-  xy: 2, 2
-  size: 69, 91
-  orig: 69, 91
+  rotate: false
+  xy: 167, 58
+  size: 76, 96
+  orig: 76, 96
   offset: 0, 0
   index: -1
