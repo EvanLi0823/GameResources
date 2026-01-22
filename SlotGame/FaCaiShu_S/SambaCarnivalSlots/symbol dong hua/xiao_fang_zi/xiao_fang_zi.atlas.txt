@@ -6,28 +6,28 @@ filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 979, 989
+  xy: 953, 1013
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 1
   rotate: false
-  xy: 580, 479
+  xy: 231, 19
   size: 124, 130
   orig: 124, 130
   offset: 0, 0
   index: -1
 2
   rotate: false
-  xy: 231, 19
+  xy: 371, 173
   size: 124, 130
   orig: 124, 130
   offset: 0, 0
   index: -1
 3
   rotate: false
-  xy: 706, 521
+  xy: 835, 617
   size: 90, 88
   orig: 90, 88
   offset: 0, 0
@@ -41,42 +41,42 @@ repeat: none
   index: -1
 5
   rotate: false
-  xy: 580, 798
-  size: 397, 198
-  orig: 397, 198
+  xy: 580, 801
+  size: 371, 219
+  orig: 371, 219
   offset: 0, 0
   index: -1
 6
   rotate: false
-  xy: 580, 611
-  size: 369, 185
-  orig: 369, 185
+  xy: 580, 532
+  size: 253, 267
+  orig: 253, 267
   offset: 0, 0
   index: -1
 7
   rotate: false
   xy: 2, 151
-  size: 391, 296
-  orig: 391, 296
+  size: 367, 320
+  orig: 367, 320
   offset: 0, 0
   index: -1
 light_1
   rotate: false
-  xy: 2, 449
+  xy: 2, 473
   size: 576, 547
   orig: 576, 547
   offset: 0, 0
   index: -1
 light_2
   rotate: false
-  xy: 395, 187
+  xy: 835, 707
   size: 92, 92
   orig: 92, 92
   offset: 0, 0
   index: -1
 light_5
   rotate: false
-  xy: 395, 281
+  xy: 371, 305
   size: 166, 166
   orig: 166, 166
   offset: 0, 0

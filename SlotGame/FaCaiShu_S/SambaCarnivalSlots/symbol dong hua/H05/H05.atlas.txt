@@ -1,160 +1,118 @@
 
 H05.png
-size: 1024,1024
+size: 512,512
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 0
   rotate: false
-  xy: 433, 872
-  size: 6, 6
-  orig: 6, 6
+  xy: 164, 352
+  size: 4, 4
+  orig: 4, 4
   offset: 0, 0
   index: -1
 1
-  rotate: false
-  xy: 177, 849
-  size: 21, 21
-  orig: 21, 21
+  rotate: true
+  xy: 486, 185
+  size: 22, 24
+  orig: 22, 24
   offset: 0, 0
   index: -1
 2
   rotate: false
-  xy: 305, 832
-  size: 39, 38
-  orig: 39, 38
+  xy: 457, 486
+  size: 34, 22
+  orig: 34, 22
   offset: 0, 0
   index: -1
 3
-  rotate: true
-  xy: 990, 978
-  size: 43, 32
-  orig: 43, 32
+  rotate: false
+  xy: 399, 74
+  size: 33, 22
+  orig: 33, 22
   offset: 0, 0
   index: -1
 4
   rotate: false
-  xy: 220, 753
-  size: 57, 31
-  orig: 57, 31
-  offset: 0, 0
-  index: -1
-5
-  rotate: true
-  xy: 688, 893
-  size: 26, 51
-  orig: 26, 51
+  xy: 2, 5
+  size: 36, 36
+  orig: 36, 36
   offset: 0, 0
   index: -1
 H05
   rotate: false
-  xy: 433, 880
-  size: 122, 141
-  orig: 122, 141
+  xy: 2, 195
+  size: 145, 150
+  orig: 145, 150
   offset: 0, 0
   index: -1
 H05_S
   rotate: false
-  xy: 2, 697
-  size: 132, 149
-  orig: 132, 149
+  xy: 164, 358
+  size: 145, 150
+  orig: 145, 150
   offset: 0, 0
   index: -1
 S1
   rotate: false
-  xy: 136, 698
-  size: 82, 148
-  orig: 82, 148
-  offset: 0, 0
-  index: -1
-S10
-  rotate: true
-  xy: 2, 2
-  size: 89, 145
-  orig: 89, 145
+  xy: 399, 98
+  size: 85, 106
+  orig: 85, 106
   offset: 0, 0
   index: -1
 S2
-  rotate: true
-  xy: 839, 927
-  size: 94, 149
-  orig: 94, 149
+  rotate: false
+  xy: 281, 55
+  size: 116, 138
+  orig: 116, 138
   offset: 0, 0
   index: -1
 S3
   rotate: false
-  xy: 2, 93
-  size: 105, 149
-  orig: 105, 149
+  xy: 149, 195
+  size: 143, 150
+  orig: 143, 150
   offset: 0, 0
   index: -1
 S4
   rotate: false
-  xy: 311, 872
-  size: 120, 149
-  orig: 120, 149
+  xy: 2, 43
+  size: 145, 150
+  orig: 145, 150
   offset: 0, 0
   index: -1
 S5
   rotate: false
-  xy: 177, 872
-  size: 132, 149
-  orig: 132, 149
+  xy: 311, 358
+  size: 144, 150
+  orig: 144, 150
   offset: 0, 0
   index: -1
 S6
   rotate: false
-  xy: 2, 546
-  size: 130, 149
-  orig: 130, 149
+  xy: 149, 43
+  size: 130, 150
+  orig: 130, 150
   offset: 0, 0
   index: -1
 S7
   rotate: false
-  xy: 2, 395
-  size: 120, 149
-  orig: 120, 149
+  xy: 294, 206
+  size: 111, 150
+  orig: 111, 150
   offset: 0, 0
   index: -1
 S8
   rotate: false
-  xy: 2, 244
-  size: 112, 149
-  orig: 112, 149
+  xy: 407, 209
+  size: 95, 147
+  orig: 95, 147
   offset: 0, 0
   index: -1
-S9
-  rotate: true
-  xy: 688, 921
-  size: 100, 149
-  orig: 100, 149
-  offset: 0, 0
-  index: -1
-light_G
+light_y
   rotate: false
-  xy: 2, 848
-  size: 173, 173
-  orig: 173, 173
-  offset: 0, 0
-  index: -1
-x1
-  rotate: false
-  xy: 220, 713
-  size: 38, 38
-  orig: 38, 38
-  offset: 0, 0
-  index: -1
-x2
-  rotate: false
-  xy: 557, 891
-  size: 129, 130
-  orig: 129, 130
-  offset: 0, 0
-  index: -1
-x3
-  rotate: false
-  xy: 220, 786
-  size: 83, 84
-  orig: 83, 84
+  xy: 2, 347
+  size: 160, 161
+  orig: 160, 161
   offset: 0, 0
   index: -1

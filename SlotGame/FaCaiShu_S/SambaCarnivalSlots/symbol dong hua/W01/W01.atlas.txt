@@ -1,0 +1,181 @@
+
+W01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 132, 434
+  size: 39, 63
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 964, 890
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 516, 848
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 67, 2
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 67, 333
+  size: 164, 63
+  orig: 164, 63
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 548, 885
+  size: 110, 68
+  orig: 110, 68
+  offset: 0, 0
+  index: -1
+6_S
+  rotate: false
+  xy: 660, 885
+  size: 110, 68
+  orig: 110, 68
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 361, 912
+  size: 185, 106
+  orig: 185, 106
+  offset: 0, 0
+  index: -1
+S1
+  rotate: false
+  xy: 874, 890
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+S10
+  rotate: false
+  xy: 361, 847
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+S11
+  rotate: false
+  xy: 445, 847
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+S2
+  rotate: true
+  xy: 67, 78
+  size: 113, 63
+  orig: 113, 63
+  offset: 0, 0
+  index: -1
+S3
+  rotate: true
+  xy: 67, 193
+  size: 138, 63
+  orig: 138, 63
+  offset: 0, 0
+  index: -1
+S4
+  rotate: false
+  xy: 722, 955
+  size: 163, 63
+  orig: 163, 63
+  offset: 0, 0
+  index: -1
+S5
+  rotate: false
+  xy: 548, 955
+  size: 172, 63
+  orig: 172, 63
+  offset: 0, 0
+  index: -1
+S6
+  rotate: true
+  xy: 2, 150
+  size: 167, 63
+  orig: 167, 63
+  offset: 0, 0
+  index: -1
+S7
+  rotate: true
+  xy: 2, 8
+  size: 140, 63
+  orig: 140, 63
+  offset: 0, 0
+  index: -1
+S8
+  rotate: false
+  xy: 887, 955
+  size: 119, 63
+  orig: 119, 63
+  offset: 0, 0
+  index: -1
+S9
+  rotate: false
+  xy: 772, 890
+  size: 100, 63
+  orig: 100, 63
+  offset: 0, 0
+  index: -1
+W01_S
+  rotate: true
+  xy: 2, 319
+  size: 178, 63
+  orig: 178, 63
+  offset: 0, 0
+  index: -1
+ku
+  rotate: true
+  xy: 2, 662
+  size: 186, 146
+  orig: 186, 146
+  offset: 0, 0
+  index: -1
+ku_S
+  rotate: false
+  xy: 173, 872
+  size: 186, 146
+  orig: 186, 146
+  offset: 0, 0
+  index: -1
+light_G
+  rotate: false
+  xy: 2, 850
+  size: 169, 168
+  orig: 169, 168
+  offset: 0, 0
+  index: -1
+light_y
+  rotate: false
+  xy: 2, 499
+  size: 160, 161
+  orig: 160, 161
+  offset: 0, 0
+  index: -1
