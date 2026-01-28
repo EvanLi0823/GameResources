@@ -1,0 +1,20 @@
+
+jian_t.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 15
+  size: 172, 157
+  orig: 172, 157
+  offset: 0, 0
+  index: -1
